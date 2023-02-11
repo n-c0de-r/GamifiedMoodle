@@ -14,9 +14,10 @@ As I had no admin rights to change the Moodle looks on server-side directly, I h
 
 ## Gamification Tools
 
-Our moodle turned out to include the XP+ plugin. This gave me an idea to incentivise interaction, as alsost any action would yield XP points and levels. That way everyone could anonymously compare their progress with others, and also some sections would open up at certain levels only.
-
+Our moodle turned out to include the XP+ plugin. This gave me an idea to incentivise interaction, as almost any action would yield XP points and levels.
 ![Ranking list in the XP system](./images/Ranking.png)
+
+That way everyone could anonymously compare their progress with others, and also some sections would open up at certain levels only.
 
 
 ## Data Evaluation
